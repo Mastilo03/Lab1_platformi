@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab_Intents</string>
+    <string name="start_explicit_activity">Start explicit activity</string>
+    <string name="start_implicit_activity">Start explicit activity</string>
+    <string name="select_photo" >Select Photo</string>
+    <string name="zazazaza">ZAZAZAZA</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="list_of_actvivities">List of Actvivities</string>
+</resources>
